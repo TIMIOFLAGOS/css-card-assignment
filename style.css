@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 110px;
+  height: 110px;
+margin: 20px 45px 10px 70px;
+  border-radius: 100%;
+
+}
+
+.card {
+  background-color: #ffffff;
+  position: relative;
+  margin:10rem auto;
+  width: 260px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+ 
+  border-radius: 10px;
+}
+.text {
+  text-align: center;
+  gap: 1rem;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: rgb(9, 183, 246);
+  border-radius: 5px;
+  margin: 20px 10px 40px -50px;
+
+  color: #ffffff;
+  width: 100%;
+  padding: 12px;
+  border: none;
+}
+.social-icon {
+  margin-left: 100px;
+}
